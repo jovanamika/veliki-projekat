@@ -1,0 +1,49 @@
+VELIKI PROJEKAT: Analitika velikih podataka - Jovana Mika
+READ ME file se odnosi na web stranicu koju pravimo u okviru datog projekta, a sadrzi dodatne opise za svaki segment stranice.
+
+Sajt se sastoji od 4 stranice: Pocetna, Istorija, Primjena i Tehnologije. U nastavku ce biti pojasnjeno u kratkim crtama sta se nalazi na svakoj stranici, tj. moj dosadasnji rad.
+Sajt je raden u wordpressu, a jedan od plugin-a koji sam koristila za dodavanje sadrzaja je Elementor. Tema koju sam izabrala je OceanWP.
+
+1.POCETHA
+ Header:
+  - sadrzi meni pomocu koga mozemo birati koju stranu sajta zelimo da posjetimo
+  - naslov sa odgovarajucim vrijednostima margina, fontom, bojom i velicinom slova
+  - pozadinska slika u svojoj punoj velicini na koju sam u okviru background overlay-a podesila opacity na 0.15 zbog lakseg uocavanja samog naslova
+  - na dnu 'kontejnera' dodan je shape divider, u cilju vizuelnog uljepsavanja
+ 
+ Body:
+  - tijelo se sastoji od nasumicno postavljenih 'kontejnera' koji sadrze slike i kratak sadrzaj kako bi korisnik dobio predstavu o sadrzaju
+  - dugmice koji su linkovani tako da klikom mozemo da posjetimo stranicu na koju se dugmic odnosi
+  - sadrzi i prazne kontejnere kojima je samo podesena pozadinska boja sa prelazom i shape divider takode radi boljeg vizuelnog dozivljaja korisnika
+  - search opciju pomocu koje korisnik bez prolaza kroz sadrzaj cijelog sajta moze pretraziti trazeni pojam
+ 
+ Footer:
+  - postavljena odgovarajuca boja
+  - i obiljezena autorska prava
+
+2. Istorija 
+ Header:
+  - isto kao i na prethodnoj strani uz minimalne promjene u izgledu
+ Body:
+  - takodje se sastoji od konjernera u kojima su smjestene slike, tekst s tim da je na ovoj stanici ubacena gif animacija
+  - dugmic za preuzimanje sadrzaja 
+ Footer:
+  - isti je za sve stranice
+
+3.Primjena
+ Header:
+  - razlika u odnosu na ostale je sto se u headeru ne nalazi slika vec gif animacija koja se 'stapa' sa pozaninom
+  - pozadinska boja sa prelazon i podesenim shape divider-om sa obe strane
+ Body:
+  - pored vec navedenog, na ovoj stranici sam koristila image box-ove kao i dugmic sa linkom na stranicu na kojoj korisnik moze pronaci vise informacija o datoj temi
+
+4.Tehnologije
+  Header:
+  - raden na isti nacin kao i prethodno navedene stranice
+  Body:
+  - 'kontejneri' sadrze tekst, pozadinske slike kao i linkovani tekst (klikom na dati tekst otvara se fotografija)
+
+Takode, sajt ima responzibilan dizajn.
+
+Ono sto trenutno nedostaje je:
+ - dijeljenje sadrzaja (u vidu postova, na drustvenim mrezama i sl.) 
