@@ -1,7 +1,7 @@
 VELIKI PROJEKAT: Analitika velikih podataka - Jovana Mika
 READ ME file se odnosi na web stranicu koju pravimo u okviru datog projekta, a sadrzi dodatne opise za svaki segment stranice.
 
-Sajt se sastoji od 4 stranice: Pocetna, Istorija, Primjena i Tehnologije. U nastavku ce biti pojasnjeno u kratkim crtama sta se nalazi na svakoj stranici, tj. moj dosadasnji rad.
+Sajt se sastoji od 5 stranica: Pocetna, Istorija, Primjena, Tehnologije i Korisnici. U nastavku ce biti pojasnjeno u kratkim crtama sta se nalazi na svakoj stranici, tj. moj dosadasnji rad.
 Sajt je raden u wordpressu, a jedan od plugin-a koji sam koristila za dodavanje sadrzaja je Elementor. Tema koju sam izabrala je OceanWP.
 
 1.POCETHA
@@ -45,5 +45,6 @@ Sajt je raden u wordpressu, a jedan od plugin-a koji sam koristila za dodavanje 
 
 Takode, sajt ima responzibilan dizajn.
 
-Ono sto trenutno nedostaje je:
- - dijeljenje sadrzaja (u vidu postova, na drustvenim mrezama i sl.) 
+5.Korisnici
+Ova stranica je namjenjena za prijavu, registraciju korisnika i postavljanje postova na istu. Formular za postavljanje postova vidjljiv je samo prijavljenim korisnicima. 
+Kreirana je uz pomoc dva plugin-a: Ultimate Member i User Submmited Posts.
