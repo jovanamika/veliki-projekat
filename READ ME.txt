@@ -48,3 +48,7 @@ Takode, sajt ima responzibilan dizajn.
 5.Korisnici
 Ova stranica je namjenjena za prijavu, registraciju korisnika i postavljanje postova na istu. Formular za postavljanje postova vidjljiv je samo prijavljenim korisnicima. 
 Kreirana je uz pomoc dva plugin-a: Ultimate Member i User Submmited Posts.
+
+Sajtovi sa kojih su preuzete ilustracije su:
+1. https://www.freepik.com/free-vectors/illustrations
+2. https://undraw.co/illustrations
